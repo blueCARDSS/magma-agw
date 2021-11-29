@@ -28,7 +28,7 @@ function print_center {
 
 echo ""
 echo $line
-print_center "Magma Access Gateway"
+print_center "MyCloudBSS Magma Access Gateway"
 echo $line
 print_data "Gateway ID:       $(cat /etc/snowflake)"
 echo $line
